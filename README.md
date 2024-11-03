@@ -1,4 +1,4 @@
-![Background Image]()
+![Background Image](https://raw.githubusercontent.com/Parthchandraaa/PORTFOLIO-DSA/refs/heads/main/WhatsApp%20Image%202024-11-03%20at%2021.47.09_3ac1007e.jpg)
 
 # 🌟 Welcome to My GitHub Profile!
 
@@ -34,6 +34,8 @@ I'm **Parth Chandra**, an 18-year-old BTech student specializing in **Computer S
 
 ---
 
+ <!-- Adding animated GIFs -->
+![Coding Animation](https://i.pinimg.com/originals/77/ee/f1/77eef18d24ef496f6332f7f89142388c.gif) <!-- Example GIF -->
 
 
 ---
@@ -50,3 +52,5 @@ I'm always excited to learn new technologies and take on challenges in coding!
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out!
+
+![Profile Views](https://komarev.com/ghpvc/?username=parthchandra&color=blue&style=flat-square)
